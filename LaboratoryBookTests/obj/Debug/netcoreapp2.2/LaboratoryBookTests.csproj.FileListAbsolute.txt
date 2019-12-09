@@ -1,0 +1,11 @@
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\bin\Debug\netcoreapp2.2\LaboratoryBookTests.deps.json
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\bin\Debug\netcoreapp2.2\LaboratoryBookTests.runtimeconfig.json
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\bin\Debug\netcoreapp2.2\LaboratoryBookTests.runtimeconfig.dev.json
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\bin\Debug\netcoreapp2.2\LaboratoryBookTests.dll
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\bin\Debug\netcoreapp2.2\LaboratoryBookTests.pdb
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\obj\Debug\netcoreapp2.2\LaboratoryBookTests.csprojAssemblyReference.cache
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\obj\Debug\netcoreapp2.2\LaboratoryBookTests.csproj.CoreCompileInputs.cache
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\obj\Debug\netcoreapp2.2\LaboratoryBookTests.AssemblyInfoInputs.cache
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\obj\Debug\netcoreapp2.2\LaboratoryBookTests.AssemblyInfo.cs
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\obj\Debug\netcoreapp2.2\LaboratoryBookTests.dll
+C:\Users\Perekrestov\Disk Google\ASP.NET core\LaboratoryBookWebApp\LaboratoryBookTests\obj\Debug\netcoreapp2.2\LaboratoryBookTests.pdb
