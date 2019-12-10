@@ -18,7 +18,9 @@ namespace LaboratoryBookWebApp
 
                     });
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0); 
+            services.AddMvc()
+                .SetCompatibilityVersion(CompatibilityVersion.Version_3_0)
+                .AddNewtonsoftJson(); 
         }
        
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

@@ -267,8 +267,7 @@ namespace LaboratoryBookWebApp.Controllers
         [Authorize(Roles = "Administer,Moderator,Laborant")]
         [AjaxOnly]
         public IActionResult AddRowToDatabase([FromBody] AddRowToDatabaseModel addRowToDatabaseModel)
-        {
-            
+        {            
 
             var rowData = addRowToDatabaseModel.rowData;
             var connectionString = _configuration.GetConnectionString("LaboratoryBookConnectionString");
@@ -509,6 +508,7 @@ namespace LaboratoryBookWebApp.Controllers
         [HttpPut]
         [Authorize(Roles = "Administer,Moderator,Laborant")]
         [AjaxOnly]
+       
         public IActionResult UpdateValue([FromBody] UpdateValueModel updateValueModel)
         {
             try

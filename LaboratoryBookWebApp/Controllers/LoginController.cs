@@ -25,9 +25,9 @@ namespace LaboratoryBookWebApp.Controllers
     public class LoginController : Controller
     {
         private readonly IConfiguration _configuration;
-        private readonly IHostingEnvironment _env;
+        private readonly IWebHostEnvironment _env;
 
-        public LoginController(IConfiguration configuration, IHostingEnvironment env)
+        public LoginController(IConfiguration configuration, IWebHostEnvironment env)
         {
             _configuration = configuration;
             _env = env;

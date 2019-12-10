@@ -78,7 +78,7 @@ async function updateDbValue(DataId, DataType, DataValue) {
         let result = await
             $.ajax({
                 cache: false,
-                method: "PUT",
+                method: "PUT",               
                 contentType: "application/json",
                 url: '/LaboratoryBook/UpdateValue',
                 dataType: 'json',
